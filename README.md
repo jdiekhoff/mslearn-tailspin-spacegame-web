@@ -1,3 +1,4 @@
+[![Build Status](https://josephdiekhoff.visualstudio.com/Tailspin/_apis/build/status/jdiekhoff.mslearn-tailspin-spacegame-web?branchName=master)](https://josephdiekhoff.visualstudio.com/Tailspin/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
